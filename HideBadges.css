@@ -1,0 +1,6 @@
+.container__8061a {
+  [aria-label="Completed a Quest"],
+  [aria-label="Streaming"],
+  [aria-label="Game Time"],
+  [aria-label="Game Variety"] { display: none; }
+}
